@@ -21,7 +21,7 @@
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,vue,mongodb,mysql,postgres,nginx,git,github,firebase,arduino,linux,bootstrap,figma,ps,illustrator,postman&perline=10" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,postgres,nginx,git,github,firebase,arduino,linux,bootstrap,figma,ps,illustrator,postman&perline=10" /></a>
 </p>
 
 ---
