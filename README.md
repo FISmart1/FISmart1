@@ -34,6 +34,8 @@
   <a href="https://spmb.smktibazma.sch.id" target="_blank"><b>🌐 SPMB SMK TI BAZMA</b></a>
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
