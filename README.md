@@ -26,14 +26,10 @@
 
 ---
 
-### My Project
-<p align="left">
-  <a href="https://smktibazma.sch.id" target="_blank">
-    SMK TI BAZMA
-  </a>
-  <a href="https://best.smktibazma.com" target="_blank">
-    BEST
-  </a>
+🚀 My Project
+<p align="left"> 
+  <a href="https://smktibazma.sch.id" target="_blank"><b>🌐 SMK TI BAZMA</b></a><br>
+  <a href="https://best.smktibazma.com" target="_blank"><b>💼 BEST — Bazma Empowerment Skill Training</b></a> 
 </p>
 
 ### 📊 GitHub Stats
