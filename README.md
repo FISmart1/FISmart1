@@ -29,8 +29,8 @@
 🚀 My Project
 <p align="left"> 
   <a href="https://smktibazma.sch.id" target="_blank"><b>🌐 SMK TI BAZMA</b></a><br>
-  <a href="https://best.smktibazma.com" target="_blank"><b>💼 BEST — Bazma Excelent Showcase Of Talents</b></a> 
-  <a href="https://himpana.com" target="_blank"><b>🌐 HIMPANA</b></a>
+  <a href="https://best.smktibazma.com" target="_blank"><b>💼 BEST — Bazma Excelent Showcase Of Talents</b></a><br>
+  <a href="https://himpana.com" target="_blank"><b>🌐 HIMPANA</b></a><br>
   <a href="https://spmb.smktibazma.sch.id" target="_blank"><b>🌐 SPMB SMK TI BAZMA</b></a>
 </p>
 
