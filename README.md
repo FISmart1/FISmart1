@@ -26,6 +26,16 @@
 
 ---
 
+### My Project
+<p align="left">
+  <a href="https://smktibazma.sch.id" target="_blank">
+    SMK TI BAZMA
+  </a>
+  <a href="https://best.smktibazma.com" target="_blank">
+    BEST
+  </a>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="left">
